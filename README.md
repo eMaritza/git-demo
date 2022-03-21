@@ -2,9 +2,8 @@
 
 This is the first filing this repo.
 
-## Ipsum Below
-Pretend this is a really long paragraph 
+## Website
 
-Pretend this is another really long paragraph added sometime later after the first really long paragraph
+Listed on the files in the website.
 
-Okay I screwed up and added that new paragraph before it was time. So, try again
+1. index.html
